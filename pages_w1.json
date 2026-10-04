@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "title": "test_1",
+    "url": "test",
+    "description": "test_1",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 7,
+    "title": "test_2",
+    "url": "test_2",
+    "description": "test_2",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 8,
+    "title": "test_3",
+    "url": "test_3",
+    "description": "test_3",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 9,
+    "title": "test_4",
+    "url": "test_4",
+    "description": "test_4",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 10,
+    "title": "test_5",
+    "url": "test_5",
+    "description": "test_5",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 11,
+    "title": "test_6",
+    "url": "test_6",
+    "description": "test_6",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 12,
+    "title": "test_7",
+    "url": "test_7",
+    "description": "test_7",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 13,
+    "title": "test_7",
+    "url": "test_7",
+    "description": "test_7",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 14,
+    "title": "test_8",
+    "url": "test_8",
+    "description": "test_8",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 15,
+    "title": "test_9",
+    "url": "test_9",
+    "description": "test_9",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 16,
+    "title": "test_10",
+    "url": "test_10",
+    "description": "test_10",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 17,
+    "title": "test_11",
+    "url": "test_11",
+    "description": "test_11",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 18,
+    "title": "test_12",
+    "url": "test_12",
+    "description": "test_12",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 19,
+    "title": "test_13",
+    "url": "test_13",
+    "description": "test_13",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 20,
+    "title": "test_14",
+    "url": "test_14",
+    "description": "test_14",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 21,
+    "title": "test_15",
+    "url": "test_15",
+    "description": "test_15",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 22,
+    "title": "test_16",
+    "url": "test_16",
+    "description": "test_16",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 23,
+    "title": "test_17",
+    "url": "test_17",
+    "description": "test_17",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 24,
+    "title": "test_18",
+    "url": "test_18",
+    "description": "test_18",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 25,
+    "title": "test_19",
+    "url": "test_19",
+    "description": "test_19",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 26,
+    "title": "test_20",
+    "url": "test_20",
+    "description": "test_20",
+    "keywords": [
+      "test"
+    ],
+    "author": "test",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  }
+]
