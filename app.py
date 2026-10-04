@@ -62,7 +62,7 @@ with tab_search:
             for i, page in enumerate(results, 1):
                 col_rank, col_title, col_score = st.columns([0.5, 4, 1])
                 with col_rank:
-                    medal = ["🥇", "🥈", "🥉"][i - 1] if i <= 3 else str(i)
+                    medal = ["1⃣", "2⃣", "3⃣"][i - 1] if i <= 3 else str(i)
                     st.markdown(f"### {medal}")
                 with col_title:
                     st.markdown(f"### {page['title']}")
@@ -152,7 +152,7 @@ with tab_crawl:
             st.cache_resource.clear()
             st.rerun()
 
-with tab_search:
+with tab_list:
     st.subheader(f"登録済みページ一覧（{len(pages)}件）")
     if not pages:
         st.info("登録されているページがありません。クローラータブからページを追加してください。")
@@ -167,4 +167,4 @@ with tab_search:
                 with col3: st.caption(f"カテゴリ：{page.get('category', '未分類') or '未分類'}")
 
 st.divider()
-st.caption("© PROJECT ZERO — Tech0 Search v0.4 | Powered by TF-IDF")
+st.caption("© PROJECT ZERO — Tech0 Search v1.0 | Powered by TF-IDF")
